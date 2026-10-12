@@ -2,84 +2,80 @@
 
 # Hi, I'm Mihir Mathur 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=464FEB&center=true&vCenter=true&width=520&lines=Software+Developer;AI+Enthusiast;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1100&color=464FEB&center=true&vCenter=true&width=540&lines=Computer+Science+Student;C%2B%2B+%26+Python+Developer;Systems+%26+Quant+Finance+Projects;Always+Learning+by+Building)](https://git.io/typing-svg)
 
-**Software developer building practical tools and exploring modern technologies.**
+**Computer Science Engineering student at SRMIST, Chennai**  
+I build practical software, from C++ systems to Python tools and Java applications.
 
-Software Developer · AI Enthusiast · Problem Solver · Continuous Learner
-
-[![GitHub](https://img.shields.io/badge/GitHub-Mihir04Mathur-181717?logo=github)](https://github.com/Mihir04Mathur)
-[![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-464feb)](https://github.com/Mihir04Mathur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-464feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Mihir04Mathur.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Mihir04Mathur-181717?style=for-the-badge&logo=github)](https://github.com/Mihir04Mathur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mihir-mathur-818048381/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihir04mathur@gmail.com)
 
 </div>
 
-## About me
+## About
 
-- I build projects in **Python, C++, and Java**, with a focus on useful tools and clear engineering.
-- I'm interested in **AI, quantitative finance, market systems, and full-stack development**.
-- I'm currently growing my skills in **JavaScript, React, machine learning, and cloud technologies**.
-- My goal is to keep shipping well-documented projects and grow into a software development role.
+- 🎓 Pursuing a **B.Tech in Computer Science Engineering** at SRM Institute of Science and Technology; expected graduation **2029**.
+- 🛠️ I learn by building and testing end-to-end projects, with a focus on **systems programming, quantitative finance, and useful developer tools**.
+- 💻 I work with **C++, Python, and Java**; my projects also explore numerical methods, market data, and SQLite applications.
+- 🌱 Currently expanding my skills in **web development, machine learning, and cloud technologies**.
+- 📍 Chennai, India
 
-## Tech stack
+## Selected projects
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Exploring**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-
-## Featured projects
-
-- [**Lobengine**](https://github.com/Mihir04Mathur/Lobengine) — Allocation-free C++20 limit order book with price-time priority, differential fuzz testing, and performance benchmarks.
-- [**riskengine-**](https://github.com/Mihir04Mathur/riskengine-) — Python toolkit for Value at Risk, Expected Shortfall, stress testing, and backtesting.
-- [**volsurface**](https://github.com/Mihir04Mathur/volsurface) — SVI implied-volatility surface calibration and options market-making simulator.
-- [**optlib**](https://github.com/Mihir04Mathur/optlib) — C++ options-pricing library with Black–Scholes, binomial, Monte Carlo, and PDE methods.
-- [**AirportManagement**](https://github.com/Mihir04Mathur/AirportManagement) — Java Swing and SQLite desktop app with passenger, flight, and booking workflows, reporting, and CSV/TXT export.
-- [**Personal website**](https://Mihir04Mathur.github.io) — My GitHub Pages site.
-
-## GitHub at a glance
+| Project | What it does |
+| --- | --- |
+| [**Lobengine**](https://github.com/Mihir04Mathur/Lobengine) · C++20 | Allocation-free limit order book with price-time priority; differentially fuzz-tested over 100 million randomized operations with zero divergence. |
+| [**optlib**](https://github.com/Mihir04Mathur/optlib) · C++ | Options pricing library with four independent methods, cross-validation, convergence tests, and Python bindings. |
+| [**riskengine-**](https://github.com/Mihir04Mathur/riskengine-) · Python | Portfolio VaR and Expected Shortfall, stress testing, risk decomposition, and statistical backtesting on historical NSE data. |
+| [**volsurface**](https://github.com/Mihir04Mathur/volsurface) · Python | SVI volatility-surface calibration and options market-making simulation, with documented results and synthetic-data scope. |
+| [**AirportManagement**](https://github.com/Mihir04Mathur/AirportManagement) · Java | Desktop airport-management app using Swing and SQLite, with bookings, check-in, reports, and data export. |
+| [**KisanPrice-CLI**](https://github.com/Mihir04Mathur/KisanPrice-CLI) · Python | AgriTech command-line tool for accessing market prices for agricultural commodities across India. |
 
 <div align="center">
 
-[![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihir04Mathur&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Mihir04Mathur)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir04Mathur&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mihir04Mathur)
+**[Explore all repositories →](https://github.com/Mihir04Mathur?tab=repositories)** · **[See the live portfolio →](https://Mihir04Mathur.github.io)**
 
-[![GitHub streak](https://streak-stats.demolab.com?user=Mihir04Mathur&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</div>
+
+## Technologies
+
+**Languages & project tools**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Currently learning**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+## GitHub activity
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihir04Mathur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/Mihir04Mathur)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir04Mathur&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/Mihir04Mathur?tab=repositories)
+
+[![Contribution streak](https://streak-stats.demolab.com?user=Mihir04Mathur&theme=tokyonight&hide_border=true)](https://github.com/Mihir04Mathur)
+
+**Achievements**
 
 [![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Mihir04Mathur&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## Get in touch
-
-- **GitHub:** [@Mihir04Mathur](https://github.com/Mihir04Mathur)
-- **Email:** [mihir04mathur@gmail.com](mailto:mihir04mathur@gmail.com)
-- **Location:** Chennai, India
-
 ---
 
 <div align="center">
 
-*Thanks for stopping by — I'm always learning, building, and improving.*
+*Thanks for visiting. I'm always learning, building, and improving.*
 
 </div>
