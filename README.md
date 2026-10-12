@@ -8,10 +8,9 @@
 
 Computer Science Engineering student at SRMIST, Chennai. I build and test software in C++, Python, and Java, choosing tools to fit the problem.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-464feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Mihir04Mathur.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Mihir04Mathur-181717?style=for-the-badge&logo=github)](https://github.com/Mihir04Mathur)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mihir-mathur-818048381/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihir04mathur@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-464feb?style=flat-square&logo=googlechrome&logoColor=white)](https://Mihir04Mathur.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mihir-mathur-818048381/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mihir04mathur@gmail.com)
 
 </div>
 
@@ -23,24 +22,13 @@ Computer Science Engineering student at SRMIST, Chennai. I build and test softwa
 - 💻 Project languages: **C++, Python, and Java**
 - 🌱 Currently learning: **JavaScript, React, Docker, and AWS**
 
-## Featured builds
-
-### [Lobengine](https://github.com/Mihir04Mathur/Lobengine) · C++20
-
-Allocation-free limit order book with price-time priority. Differential fuzz testing covered **100 million randomized operations with zero divergence** against a reference implementation.
-
-### [optlib](https://github.com/Mihir04Mathur/optlib) · C++
-
-Options-pricing library implementing four independent methods, with cross-validation, convergence tests, and Python bindings.
-
-### [riskengine-](https://github.com/Mihir04Mathur/riskengine-) · Python
-
-Portfolio VaR and Expected Shortfall analysis with stress testing, risk decomposition, and statistical backtesting on historical NSE data.
-
-## More projects
+## Selected projects
 
 | Project | What it does |
 | --- | --- |
+| [**Lobengine**](https://github.com/Mihir04Mathur/Lobengine) · C++20 | Allocation-free limit order book with price-time priority; differentially fuzz-tested over **100 million randomized operations with zero divergence**. |
+| [**optlib**](https://github.com/Mihir04Mathur/optlib) · C++ | Options-pricing library with four independent methods, cross-validation, convergence tests, and Python bindings. |
+| [**riskengine-**](https://github.com/Mihir04Mathur/riskengine-) · Python | Portfolio VaR and Expected Shortfall, stress testing, risk decomposition, and statistical backtesting on historical NSE data. |
 | [**volsurface**](https://github.com/Mihir04Mathur/volsurface) · Python | SVI volatility-surface calibration and options market-making simulation, with documented results and synthetic-data scope. |
 | [**AirportManagement**](https://github.com/Mihir04Mathur/AirportManagement) · Java | Desktop airport-management app using Swing and SQLite, with bookings, check-in, reports, and data export. |
 | [**KisanPrice-CLI**](https://github.com/Mihir04Mathur/KisanPrice-CLI) · Python | AgriTech command-line tool for accessing market prices for agricultural commodities across India. |
