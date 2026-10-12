@@ -54,7 +54,7 @@ Software Developer · AI Enthusiast · Problem Solver · Continuous Learner
 - [**riskengine-**](https://github.com/Mihir04Mathur/riskengine-) — Python toolkit for Value at Risk, Expected Shortfall, stress testing, and backtesting.
 - [**volsurface**](https://github.com/Mihir04Mathur/volsurface) — SVI implied-volatility surface calibration and options market-making simulator.
 - [**optlib**](https://github.com/Mihir04Mathur/optlib) — C++ options-pricing library with Black–Scholes, binomial, Monte Carlo, and PDE methods.
-- [**KisanPrice-CLI**](https://github.com/Mihir04Mathur/KisanPrice-CLI) — Command-line access to agricultural market prices in India.
+- [**AirportManagement**](https://github.com/Mihir04Mathur/AirportManagement) — Java Swing and SQLite desktop app with passenger, flight, and booking workflows, reporting, and CSV/TXT export.
 - [**Personal website**](https://Mihir04Mathur.github.io) — My GitHub Pages site.
 
 ## GitHub at a glance
@@ -73,6 +73,7 @@ Software Developer · AI Enthusiast · Problem Solver · Continuous Learner
 ## Get in touch
 
 - **GitHub:** [@Mihir04Mathur](https://github.com/Mihir04Mathur)
+- **Email:** [mihir04mathur@gmail.com](mailto:mihir04mathur@gmail.com)
 - **Location:** Chennai, India
 
 ---
